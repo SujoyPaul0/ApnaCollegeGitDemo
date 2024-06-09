@@ -1,2 +1,3 @@
 # ApnaCollegeGitDemo
-The demo of apna college
+The demo of apna college.
+author - sujoy paul
